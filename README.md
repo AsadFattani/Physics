@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="image.png" alt="Logo" width="250" height="auto">
+    <img src="./Simple-Harmonic-Motion-main/image.png" alt="Logo" width="250" height="auto">
   </a>
   <h3 align="center">Simple Harmonic Motion</h3>
   <p align="center">
@@ -24,7 +24,7 @@ In mechanics and physics, simple harmonic motion is a special type of periodic m
 A = amplitude, 𝝎 = angular frequency, 𝜽 = initial phase
 
 <p align="center">
-    <img src="image2.png" alt="SHM Diagram">
+    <img src="./Simple-Harmonic-Motion-main/image2.png" alt="SHM Diagram">
   </a>
 
   <p align="center">
